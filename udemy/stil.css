@@ -1,0 +1,75 @@
+input{
+    border-color: rgb(29, 30, 30);
+    background-color: rgb(250, 246, 246);
+    border: 0px;
+    border-radius: 10px;
+    width: 600px;
+    height: 40px;
+    padding: 5px; 
+    
+}
+.kutu1{
+    margin-top: 0px;
+}
+.kutu2{
+    background-color: rgb(24, 23, 23);
+    color: rgb(200, 205, 205);
+    
+    padding: 30px;
+}
+.kutu2 ul li{ 
+    display: inline-block;
+    margin-left: 20px;
+    text-align: center;
+    border-bottom: 1px;
+}
+
+.kutu1 li{
+display: inline-block;
+margin-left: 20px;
+text-align: center;
+}
+.a{
+    margin-right: 5px;
+    width: 150px;  
+}
+a{
+    margin-left: 110px;
+}
+.g{
+    margin-left: 20px;
+
+}
+
+
+
+.gizli {
+    display: none;
+  }
+
+
+img .C{
+    width: 60px;
+    vertical-align: top;
+    display: inline-block;
+}
+.second{
+    margin-right: 10px;
+}
+.first {
+    background: rgb(41, 40, 40);
+    color: azure;
+    margin: auto;
+    padding: 5px;
+}
+.first h1{
+    margin-left: 150px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.first h3{
+    margin-left: 150px;
+    margin-bottom: 0;
+    display: inline;
+}
+
